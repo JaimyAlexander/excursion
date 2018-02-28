@@ -1,0 +1,27 @@
+html {
+  background-color: black;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+h2 {
+  font-weight: 300;
+  color: white;
+  font-size: 30px;
+}
+
+p {
+  font-size: 21px;
+  color: grey;
+}
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
